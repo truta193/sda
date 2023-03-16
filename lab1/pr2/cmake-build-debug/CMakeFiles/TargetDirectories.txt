@@ -1,3 +1,0 @@
-/home/andrei/Documents/2022-2023/sem2/sda/lab1/pr2/cmake-build-debug/CMakeFiles/pr2.dir
-/home/andrei/Documents/2022-2023/sem2/sda/lab1/pr2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/andrei/Documents/2022-2023/sem2/sda/lab1/pr2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
